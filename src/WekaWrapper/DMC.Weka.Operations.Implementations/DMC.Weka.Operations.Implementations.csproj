@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Common\DMC.Common.Operations.Interfaces\DMC.Common.Operations.Interfaces.csproj" />
+    </ItemGroup>
+
+</Project>
