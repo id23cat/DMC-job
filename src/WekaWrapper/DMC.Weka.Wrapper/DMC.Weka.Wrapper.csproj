@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Common\DMC.Common.RestApi\DMC.Common.RestApi.csproj" />
+      <ProjectReference Include="..\DMC.Weka.Operations.Implementations\DMC.Weka.Operations.Implementations.csproj" />
+    </ItemGroup>
+
+</Project>
