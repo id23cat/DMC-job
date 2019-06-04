@@ -5,6 +5,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\..\Common\DMC.Common.Infrastructure.Common\DMC.Common.Infrastructure.Common.csproj" />
       <ProjectReference Include="..\..\Common\DMC.Common.Operations.Interfaces\DMC.Common.Operations.Interfaces.csproj" />
     </ItemGroup>
 

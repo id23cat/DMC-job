@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMC.Common.Infrastructure.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMC.Common.Infrastructure.Ef.Configs", "..\Common\DMC.Common.Infrastructure.Ef.Configs\DMC.Common.Infrastructure.Ef.Configs.csproj", "{2C8CA4DF-2552-4092-BB04-C04B7078A0AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMC.Common.Infrastructure.Common", "..\Common\DMC.Common.Infrastructure.Common\DMC.Common.Infrastructure.Common.csproj", "{326ABA54-18B1-4BCF-AACE-943DBC261C30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{2C8CA4DF-2552-4092-BB04-C04B7078A0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C8CA4DF-2552-4092-BB04-C04B7078A0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C8CA4DF-2552-4092-BB04-C04B7078A0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326ABA54-18B1-4BCF-AACE-943DBC261C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326ABA54-18B1-4BCF-AACE-943DBC261C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326ABA54-18B1-4BCF-AACE-943DBC261C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326ABA54-18B1-4BCF-AACE-943DBC261C30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0D09CF83-3A86-4D07-9C76-1AE8E667CECF} = {2A91B28E-A8F3-4E4E-A6D3-BEDB2BF2ED8E}
@@ -71,5 +77,6 @@ Global
 		{2BB4B1C9-3B65-4B62-BC23-D54CB9904FA6} = {2A91B28E-A8F3-4E4E-A6D3-BEDB2BF2ED8E}
 		{D16E7043-8E1A-42E0-8F1D-845DF51B2D31} = {2A91B28E-A8F3-4E4E-A6D3-BEDB2BF2ED8E}
 		{2C8CA4DF-2552-4092-BB04-C04B7078A0AB} = {2A91B28E-A8F3-4E4E-A6D3-BEDB2BF2ED8E}
+		{326ABA54-18B1-4BCF-AACE-943DBC261C30} = {2A91B28E-A8F3-4E4E-A6D3-BEDB2BF2ED8E}
 	EndGlobalSection
 EndGlobal

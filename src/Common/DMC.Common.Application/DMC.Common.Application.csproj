@@ -8,4 +8,8 @@
       <ProjectReference Include="..\DMC.Common.Domain.Services\DMC.Common.Domain.Services.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="MediatR" Version="7.0.0" />
+    </ItemGroup>
+
 </Project>

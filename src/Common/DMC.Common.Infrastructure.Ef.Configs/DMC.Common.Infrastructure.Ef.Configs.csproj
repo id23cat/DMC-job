@@ -6,6 +6,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\DMC.Common.Domain.Entities\DMC.Common.Domain.Entities.csproj" />
+      <ProjectReference Include="..\DMC.Common.Infrastructure.Common\DMC.Common.Infrastructure.Common.csproj" />
     </ItemGroup>
 
 </Project>
